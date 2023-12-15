@@ -1,0 +1,52 @@
+---
+title: "MJR Consultoria"
+subtitle: "Serviços"
+format: revealjs
+html: 
+embed-resources: true
+editor: visual
+date: "12/15/2023"
+Autor: "Michele"
+---
+
+## Serviços oferecidos:
+
+-   Manutenção de computadores e notebooks
+
+-   Manutenção em servidores
+
+-   Suporte em ferramentas de backup
+
+-   Videoconferência - preparação da sala com computadores
+
+-   Instalação de posição de trabalho
+
+-   Alteração de layout de computadores
+
+-   Suporte à aplicações financeiras
+
+-   Descarte de equipamentos para reciclagem com certificação 14001
+
+## Já deu aquele medo de perder seus arquivos?
+
+Aqui podemos ter diversos motivos que causam a perda de arquivos mas resumindo, podemos citar problemas de hardware, equipamentos como HD, ou software, perder arquivo ou alteração por não salva-lo.
+
+## Com tantas quedas de Energia que vem acontecendo, saiba como evitar a perda de documentos e arquivos importantes no seu computador
+
+Vamos direto a solução o que posso fazer para não perder meus arquivos ou pelo menos tentar algumas alternativas? Atualmente temos diversos programas com salvamento automático, exemplo google docs, google sheets, podemos também salvar arquivos em nuvem, temos diversas saídas para você não ficar na mão.:
+
+```{r}
+library(tidyverse)
+library(dplyr) # manipulação de dados
+
+```
+
+```{r}
+Basededados<-out23
+Basededados |>
+  ggplot() +
+  aes(x = Serviço, y = Técnico) +
+  geom_point(aes(color = Cliente))
+```
+
+\
